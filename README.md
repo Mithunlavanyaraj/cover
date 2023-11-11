@@ -144,5 +144,8 @@ Publish the website in the given URL.
 ```
 ## OUTPUT:
 
+![image](https://github.com/Mithunlavanyaraj/cover/assets/120077786/83fe99cd-7aed-4b8c-9bc7-339d710f8032)
+
+
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
